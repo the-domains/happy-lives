@@ -1,0 +1,14 @@
+layout_spectrum: 0.7947384347207844
+typography_spectrum: 0.1314735112246126
+color:
+  brandStrength: 0.6178136069793254
+  lightness: 0.20654861233197153
+  saturation: 0.1396986530162394
+  rhythmicContrast: 0.7435055642854422
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Happy Lives
